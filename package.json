@@ -1,0 +1,20 @@
+{
+  "name": "bplabombarda.com",
+  "version": "1.0.0",
+  "description": "Website for bplabombarda.com.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bplabombarda/bplabombarda.com.git"
+  },
+  "keywords": [],
+  "author": "Brett LaBombarda",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/bplabombarda/bplabombarda.com/issues"
+  },
+  "homepage": "https://github.com/bplabombarda/bplabombarda.com#readme"
+}
