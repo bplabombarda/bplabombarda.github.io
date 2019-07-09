@@ -27,8 +27,9 @@ h6 {
 }
 
 a {
-	color: #6f56ef;
+	color: blue;
 	font-family: 'Free Mono Oblique', monospace;
+	font-weight: 700;
 }
 
 ul {
